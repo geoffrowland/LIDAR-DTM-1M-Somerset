@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
     <TileMap version="1.0.0" tilemapservice="http://tms.osgeo.org/1.0.0">
-      <Title>DulvertonHill_1M.tif</Title>
+      <Title>LangportHill_1M.tif</Title>
       <Abstract></Abstract>
       <SRS>EPSG:3857</SRS>
-      <BoundingBox minx="-3.71363015621976" miny="50.87699303376157" maxx="-3.42284652779241" maxy="51.06059667842773"/>
-      <Origin x="-3.71363015621976" y="50.87699303376157"/>
+      <BoundingBox minx="-3.00228996183916" miny="50.97513171314748" maxx="-2.71357596053658" maxy="51.15705097653711"/>
+      <Origin x="-3.00228996183916" y="50.97513171314748"/>
       <TileFormat width="256" height="256" mime-type="image/png" extension="png"/>
       <TileSets profile="mercator">
         <TileSet href="9" units-per-pixel="305.74811308593752" order="9"/>
