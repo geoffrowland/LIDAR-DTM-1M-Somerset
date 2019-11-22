@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
     <TileMap version="1.0.0" tilemapservice="http://tms.osgeo.org/1.0.0">
-      <Title>WatchetHill_1M_Clip.tif</Title>
+      <Title>Lundy_Hill_1M_Clip.tif</Title>
       <Abstract></Abstract>
       <SRS>EPSG:3857</SRS>
-      <BoundingBox minx="-3.43336199504136" miny="51.06059590777236" maxx="-3.14302793258456" maxy="51.22556143311221"/>
-      <Origin x="-3.43336199504136" y="51.06059590777236"/>
+      <BoundingBox minx="-4.70771883509842" miny="51.14598288676123" maxx="-4.64638512373151" maxy="51.21914795613721"/>
+      <Origin x="-4.70771883509842" y="51.14598288676123"/>
       <TileFormat width="256" height="256" mime-type="image/png" extension="png"/>
       <TileSets profile="mercator">
         <TileSet href="9" units-per-pixel="305.74811308593752" order="9"/>
