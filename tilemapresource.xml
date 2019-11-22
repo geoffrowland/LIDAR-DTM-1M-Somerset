@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
     <TileMap version="1.0.0" tilemapservice="http://tms.osgeo.org/1.0.0">
-      <Title>SherborneHill_1M.tif</Title>
+      <Title>WatchetHill_1M_Clip.tif</Title>
       <Abstract></Abstract>
       <SRS>EPSG:3857</SRS>
-      <BoundingBox minx="-2.57113843330214" miny="50.79816121816331" maxx="-2.28515768523247" maxy="50.97905112144439"/>
-      <Origin x="-2.57113843330214" y="50.79816121816331"/>
+      <BoundingBox minx="-3.43336199504136" miny="51.06059590777236" maxx="-3.14302793258456" maxy="51.22556143311221"/>
+      <Origin x="-3.43336199504136" y="51.06059590777236"/>
       <TileFormat width="256" height="256" mime-type="image/png" extension="png"/>
       <TileSets profile="mercator">
         <TileSet href="9" units-per-pixel="305.74811308593752" order="9"/>
