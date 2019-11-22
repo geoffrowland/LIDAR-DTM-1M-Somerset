@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
     <TileMap version="1.0.0" tilemapservice="http://tms.osgeo.org/1.0.0">
-      <Title>CastleCareyHill_1M.tif</Title>
+      <Title>ChardHill_1M.tif</Title>
       <Abstract></Abstract>
       <SRS>EPSG:3857</SRS>
-      <BoundingBox minx="-2.71634302835974" miny="50.97722026925673" maxx="-2.42869539980297" maxy="51.15845362015945"/>
-      <Origin x="-2.71634302835974" y="50.97722026925673"/>
+      <BoundingBox minx="-3.14082027473343" miny="50.79401088811831" maxx="-2.85270025851481" maxy="50.97626380459855"/>
+      <Origin x="-3.14082027473343" y="50.79401088811831"/>
       <TileFormat width="256" height="256" mime-type="image/png" extension="png"/>
       <TileSets profile="mercator">
         <TileSet href="9" units-per-pixel="305.74811308593752" order="9"/>
