@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
     <TileMap version="1.0.0" tilemapservice="http://tms.osgeo.org/1.0.0">
-      <Title>bristol_hill_rend.tif</Title>
+      <Title>avonSE_hill_rend.tif</Title>
       <Abstract></Abstract>
       <SRS>EPSG:3857</SRS>
-      <BoundingBox minx="-2.72126118955784" miny="51.24696255850923" maxx="-2.35956821543591" maxy="51.47340386194518"/>
-      <Origin x="-2.72126118955784" y="51.24696255850923"/>
+      <BoundingBox minx="-2.65056227228715" miny="51.47216486519933" maxx="-2.36132759771525" maxy="51.56331814481436"/>
+      <Origin x="-2.65056227228715" y="51.47216486519933"/>
       <TileFormat width="256" height="256" mime-type="image/png" extension="png"/>
       <TileSets profile="mercator">
         <TileSet href="9" units-per-pixel="305.74811308593752" order="9"/>
