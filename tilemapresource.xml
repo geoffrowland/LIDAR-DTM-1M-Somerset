@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
     <TileMap version="1.0.0" tilemapservice="http://tms.osgeo.org/1.0.0">
-      <Title>slimbridge_hill_rend_clip.tif</Title>
+      <Title>gloucester_hill_rend_clip.tif</Title>
       <Abstract></Abstract>
       <SRS>EPSG:3857</SRS>
-      <BoundingBox minx="-2.72627161687466" miny="51.69651469808048" maxx="-2.36312914191109" maxy="51.78809938523759"/>
-      <Origin x="-2.72627161687466" y="51.69651469808048"/>
+      <BoundingBox minx="-2.50983502575161" miny="51.78755976153769" maxx="-2.14637774654111" maxy="51.87848178880909"/>
+      <Origin x="-2.50983502575161" y="51.78755976153769"/>
       <TileFormat width="256" height="256" mime-type="image/png" extension="png"/>
       <TileSets profile="mercator">
         <TileSet href="9" units-per-pixel="305.74811308593752" order="9"/>
