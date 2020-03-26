@@ -63,11 +63,11 @@
             zoom: 16,
             minZoom: 9,
             maxZoom: 16,
-            layers: [osm]
+            layers: [osm,lyr]
         });
 
         var basemaps = {"OpenStreetMap": osm, "Without background": white}
-        var overlaymaps = {"Layer": lyr}
+        var overlaymaps = {"Terrain": lyr}
 
         // Title
         var title = L.control();
