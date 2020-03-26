@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
     <TileMap version="1.0.0" tilemapservice="http://tms.osgeo.org/1.0.0">
-      <Title>cheltenham_east_hill_rend.tif</Title>
+      <Title>cheltenham_west_hill_rend_clip.tif</Title>
       <Abstract></Abstract>
       <SRS>EPSG:3857</SRS>
-      <BoundingBox minx="-2.21952268706824" miny="51.87837319472237" maxx="-2.00139423021956" maxy="51.92352963019585"/>
-      <Origin x="-2.21952268706824" y="51.87837319472237"/>
+      <BoundingBox minx="-2.36493610155097" miny="51.87801330964439" maxx="-2.21930280679214" maxy="51.92332445083598"/>
+      <Origin x="-2.36493610155097" y="51.87801330964439"/>
       <TileFormat width="256" height="256" mime-type="image/png" extension="png"/>
       <TileSets profile="mercator">
         <TileSet href="9" units-per-pixel="305.74811308593752" order="9"/>
