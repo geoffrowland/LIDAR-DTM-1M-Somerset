@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
     <TileMap version="1.0.0" tilemapservice="http://tms.osgeo.org/1.0.0">
-      <Title>hereford_hill_rend.tif</Title>
+      <Title>tewkesbury_hill_rend.tif</Title>
       <Abstract></Abstract>
       <SRS>EPSG:3857</SRS>
-      <BoundingBox minx="-2.73210578836458" miny="51.92127006785038" maxx="-2.36494163710368" maxy="52.14772763983959"/>
-      <Origin x="-2.73210578836458" y="51.92127006785038"/>
+      <BoundingBox minx="-2.36677061531734" miny="51.92296459593144" maxx="-2.00139310810019" maxy="52.14829942387789"/>
+      <Origin x="-2.36677061531734" y="51.92296459593144"/>
       <TileFormat width="256" height="256" mime-type="image/png" extension="png"/>
       <TileSets profile="mercator">
         <TileSet href="9" units-per-pixel="305.74811308593752" order="9"/>
