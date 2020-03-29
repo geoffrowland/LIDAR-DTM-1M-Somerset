@@ -3,7 +3,7 @@
           <head>
             <meta charset="utf-8">
             <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no' />
-            <title>WincantonHill_1M.tif</title>
+            <title>east_devon_edge_hill_rend.tif</title>
 
             <!-- Leaflet -->
             <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.5/leaflet.css" />
@@ -57,7 +57,7 @@
 
         // Map
         var map = L.map('map', {
-            center: [51.06875463619451, -2.358311569250999],
+            center: [50.87646395550598, -3.7427135932748756],
             zoom: 16,
             minZoom: 9,
             maxZoom: 16,
@@ -75,7 +75,7 @@
             return this._div;
         };
         title.update = function(props) {
-            this._div.innerHTML = "WincantonHill_1M.tif";
+            this._div.innerHTML = "east_devon_edge_hill_rend.tif";
         };
         title.addTo(map);
 
@@ -97,7 +97,7 @@
         L.control.layers(basemaps, overlaymaps, {collapsed: false}).addTo(map);
 
         // Fit to overlay bounds (SW and NE points with (lat, lon))
-        map.fitBounds([[50.97861668797869, -2.2862572812180164], [51.158892584410324, -2.430365857283981]]);
+        map.fitBounds([[50.69616624930003, -3.700489476197088], [51.05676166171193, -3.7849377103526636]]);
 
         </script>
 
